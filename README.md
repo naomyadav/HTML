@@ -8,6 +8,6 @@ Click <a href="https://naomyadav.github.io/HTML">Here</a> to see this website on
 <br>
 |-<a href="https://naomyadav.github.io/HTML/index.html">index.html</a>
 <br>
-|-<a href="https://naomyadav.github.io/HTML/iframe.html">iframe.html</a>
+|-<a href="https://naomyadav.github.io/HTML/Iframe.html">iframe.html</a>
 <br>
 |-<a href="https://naomyadav.github.io/HTML/HTML1.html">HTML1.html</a>
